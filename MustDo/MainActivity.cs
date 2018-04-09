@@ -4,6 +4,7 @@ using Android.OS;
 using Android.Support.V7.App;
 using Toolbar = Android.Support.V7.Widget.Toolbar;
 using Android.Views;
+using Android.Content;
 
 namespace MustDo
 {
@@ -31,6 +32,8 @@ namespace MustDo
         public override bool OnOptionsItemSelected(IMenuItem item)
         {
             Toast.MakeText(this, "wew " + item.TitleFormatted, ToastLength.Short).Show();
+            var addItemIntent = new Intent(this, typeof(AddItemActivity));
+            base.StartActivity(addItemIntent);
             return base.OnOptionsItemSelected(item);
         }
     }

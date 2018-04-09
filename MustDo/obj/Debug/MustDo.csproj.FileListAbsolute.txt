@@ -60,5 +60,6 @@ C:\Users\Goose\Source\Repos\MustDo\MustDo\obj\Debug\MustDo.csproj.CopyComplete
 C:\Users\Goose\Source\Repos\MustDo\MustDo\obj\Debug\res\layout\toolbar.xml
 C:\Users\Goose\Source\Repos\MustDo\MustDo\obj\Debug\res\values\styles.xml
 C:\Users\Goose\Source\Repos\MustDo\MustDo\obj\Debug\res\menu\my_menu.xml
+C:\Users\Goose\Source\Repos\MustDo\MustDo\obj\Debug\res\layout\activity_add_item.xml
 C:\Users\Goose\Source\Repos\MustDo\MustDo\bin\Debug\MustDo.dll
 C:\Users\Goose\Source\Repos\MustDo\MustDo\obj\Debug\linksrc\MustDo.dll.mdb

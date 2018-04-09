@@ -1,3 +1,7 @@
+MustDo.AddItemActivity, MustDo;md56da7e8ac47db97bd6ccab7ee38594ea6.AddItemActivity
+MustDo.AddItemActivity, MustDo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56da7e8ac47db97bd6ccab7ee38594ea6.AddItemActivity
+MustDo.AddItemActivity;md56da7e8ac47db97bd6ccab7ee38594ea6.AddItemActivity
+mustdo.AddItemActivity;md56da7e8ac47db97bd6ccab7ee38594ea6.AddItemActivity
 MustDo.MainActivity, MustDo;md56da7e8ac47db97bd6ccab7ee38594ea6.MainActivity
 MustDo.MainActivity, MustDo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56da7e8ac47db97bd6ccab7ee38594ea6.MainActivity
 MustDo.MainActivity;md56da7e8ac47db97bd6ccab7ee38594ea6.MainActivity
