@@ -6,6 +6,10 @@ MustDo.MainActivity, MustDo;md56da7e8ac47db97bd6ccab7ee38594ea6.MainActivity
 MustDo.MainActivity, MustDo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56da7e8ac47db97bd6ccab7ee38594ea6.MainActivity
 MustDo.MainActivity;md56da7e8ac47db97bd6ccab7ee38594ea6.MainActivity
 mustdo.MainActivity;md56da7e8ac47db97bd6ccab7ee38594ea6.MainActivity
+MustDo.SQLiteHelper, MustDo;md56da7e8ac47db97bd6ccab7ee38594ea6.SQLiteHelper
+MustDo.SQLiteHelper, MustDo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56da7e8ac47db97bd6ccab7ee38594ea6.SQLiteHelper
+MustDo.SQLiteHelper;md56da7e8ac47db97bd6ccab7ee38594ea6.SQLiteHelper
+mustdo.SQLiteHelper;md56da7e8ac47db97bd6ccab7ee38594ea6.SQLiteHelper
 Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
